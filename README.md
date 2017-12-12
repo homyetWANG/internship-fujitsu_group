@@ -23,7 +23,7 @@ Microsoft Office Access 的数据库`VBA`的操作实习。第一次接触。<br
 
 # internship-NTT communications solution　２０１７－１２－１２
 1.要件定義と設計<br>
-インフラとアプリケーション的设计是向下流程，架构师从底向上的。
+インフラとアプリケーション的设计是向下流程，架构师从底向上的。<br> 
                   設計<br> 
 アプリケーション    ｜     ↑<br> 
 サーバー             |     ｜<br> 
